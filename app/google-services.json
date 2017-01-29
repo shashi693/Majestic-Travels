@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "22320634754",
+    "firebase_url": "https://majestic-travels-7cf99.firebaseio.com",
+    "project_id": "majestic-travels-7cf99",
+    "storage_bucket": "majestic-travels-7cf99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22320634754:android:0b1ee0ee668e1861",
+        "android_client_info": {
+          "package_name": "com.sukenkar.majestictravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22320634754-eq07pi078cig6qi0mbqlimu9rq63ht63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQhDxBBr7mZTEtV3oqejTBzj_iL23a_WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
